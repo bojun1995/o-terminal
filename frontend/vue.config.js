@@ -1,6 +1,6 @@
 module.exports = {
 	devServer: {
-		host: 7777,
+		port: 7777,
 	},
 	runtimeCompiler: true,
 	configureWebpack: (config) => {
